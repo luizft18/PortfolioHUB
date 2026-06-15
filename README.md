@@ -1,7 +1,7 @@
 # PortfolioHUB
 Compêndio dos componentes do meu portfólio.
 
-O **PortfolioHUB** é uma plataforma centralizada projetada para exibir, gerenciar e documentar de forma estruturada minha trajetória acadêmica e profissional, competências, experiências e projetos realizados[cite: 1, 2]. 
+O **PortfolioHUB** é uma plataforma centralizada projetada para exibir, gerenciar e documentar de forma estruturada minha trajetória acadêmica e profissional, competências, experiências e projetos realizados. 
 
 Este ecossistema foi desenvolvido como o entregável consolidado da matéria de **Bootcamp I** do curso de **Análise e Desenvolvimento de Sistemas** no **Centro Universitário de Brasília (CEUB)**. Toda a sua arquitetura de implantação, governança de código e segurança foi realizada com o apoio e co-pilotagem da IA **Google Gemini**.
 
@@ -12,7 +12,7 @@ Este ecossistema foi desenvolvido como o entregável consolidado da matéria de 
 O repositório está organizado de forma modular para garantir a separação de conceitos (Clean Code) e fácil navegabilidade:
 
 *   `📂 src/` - Código-fonte e arquivos estruturais da plataforma PortfolioHUB.
-*   `📂 docs/` - Documentação acadêmica, relatórios e arquivos PDFs das entregas do semestre[cite: 1, 2].
+*   `📂 docs/` - Documentação acadêmica, relatórios e arquivos PDFs das entregas do semestre.
 *   `📂 public/` - Arquivos de acesso público.
 
 ---
